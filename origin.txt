@@ -1,0 +1,300 @@
+Uri: http://estudianteplus.com/
+File Name: c:\Downloaded Web Sites\estudianteplus.com\index.htm
+Content Type: text/html
+
+Uri: http://estudianteplus.com/assets/images/logo-1-133x165.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\logo-1-133x165.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons/mobirise-icons.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons\mobirise-icons.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/bootstrap/css/bootstrap.min.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/bootstrap/css/bootstrap-grid.min.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\bootstrap\css\bootstrap-grid.min.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/bootstrap/css/bootstrap-reboot.min.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\bootstrap\css\bootstrap-reboot.min.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/dropdown/css/style.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\dropdown\css\style.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/tether/tether.min.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\tether\tether.min.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/socicon/css/styles.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\socicon\css\styles.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/theme/css/style.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\theme\css\style.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/mobirise/css/mbr-additional.css
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\mobirise\css\mbr-additional.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/index.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\index.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/page1.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\page1.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/page2.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\page2.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/page3.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\page3.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/page4.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\page4.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/page5.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\page5.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/page6.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\page6.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/assets/images/banner1-1-700x150.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\banner1-1-700x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/banner2-3-700x150.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\banner2-3-700x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/banner3-2-700x150.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\banner3-2-700x150.jpeg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-1-484x323.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1-484x323.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed/v1/place?key=AIzaSyAEIpgj38KyLFELm2bK9Y7krBkz1K-cMq8&q=place_id:ChIJO2XXuN1LQg0RwOe2UA7oysc
+File Name: c:\Downloaded Web Sites\estudianteplus.com\maps\embed\v1\place.html
+Content Type: text/html
+
+Uri: http://estudianteplus.com/assets/web/assets/jquery/jquery.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/popper/popper.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\popper\popper.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/bootstrap/js/bootstrap.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\bootstrap\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/smoothscroll/smooth-scroll.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\smoothscroll\smooth-scroll.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/dropdown/js/nav-dropdown.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\dropdown\js\nav-dropdown.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/dropdown/js/navbar-dropdown.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\dropdown\js\navbar-dropdown.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/touchswipe/jquery.touch-swipe.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\touchswipe\jquery.touch-swipe.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/tether/tether.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\tether\tether.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/theme/js/script.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\theme\js\script.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/formoid/formoid.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\formoid\formoid.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons/mobirise-icons.eot?spat4u
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons\mobirise-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons/mobirise-icons.ttf?spat4u
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons\mobirise-icons.txt
+Content Type: text/plain
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons/mobirise-icons.woff?spat4u
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons\mobirise-icons-1.txt
+Content Type: text/plain
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons/mobirise-icons.svg?spat4u
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons\mobirise-icons.svg
+Content Type: image/svg+xml
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.eot?m1l4yr
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.ttf?m1l4yr
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.txt
+Content Type: text/plain
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.woff?m1l4yr
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold-1.txt
+Content Type: text/plain
+
+Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.svg?m1l4yr
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\web\assets\mobirise-icons-bold\mobirise-icons-bold.svg
+Content Type: image/svg+xml
+
+Uri: http://estudianteplus.com/assets/socicon/fonts/socicon.eot
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\socicon\fonts\socicon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://estudianteplus.com/assets/socicon/fonts/socicon.eot?
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\socicon\fonts\socicon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://estudianteplus.com/assets/socicon/fonts/socicon.woff
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\socicon\fonts\socicon.txt
+Content Type: text/plain
+
+Uri: http://estudianteplus.com/assets/socicon/fonts/socicon.ttf
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\socicon\fonts\socicon-1.txt
+Content Type: text/plain
+
+Uri: http://estudianteplus.com/assets/socicon/fonts/socicon.svg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\socicon\fonts\socicon.svg
+Content Type: image/svg+xml
+
+Uri: https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap
+File Name: c:\Downloaded Web Sites\estudianteplus.com\css.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700&display=swap
+File Name: c:\Downloaded Web Sites\estudianteplus.com\css-1.css
+Content Type: text/css
+
+Uri: http://estudianteplus.com/assets/images/mbr-1-1920x1122.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1-1920x1122.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-1920x1280.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-1920x1281.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1920x1281.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/banner8-1400x300.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\banner8-1400x300.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-1920x1210.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1920x1210.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-1-1920x1280.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1-1920x1280.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/banner9-2-1400x300.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\banner9-2-1400x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-700x394.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-700x394.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-3-700x486.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-3-700x486.jpeg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/parallax/jarallax.min.js
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\parallax\jarallax.min.js
+Content Type: text/javascript
+
+Uri: http://estudianteplus.com/assets/images/mbr-1-700x394.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1-700x394.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-1-700x467.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-1-700x467.jpeg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/actividades1-744x411.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\actividades1-744x411.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/background9.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\background9.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/formacion-cabanillas-700x443.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\formacion-cabanillas-700x443.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/background1.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\background1.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/mbr-676x463.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\mbr-676x463.jpg
+Content Type: image/jpeg
+
+Uri: http://estudianteplus.com/assets/images/cambridgeexam-676x450.jpeg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\cambridgeexam-676x450.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed/v1/place?key=AIzaSyAEIpgj38KyLFELm2bK9Y7krBkz1K-cMq8&q=place_id:ChIJH0du9SlNQg0RX8novrj5NQI
+File Name: c:\Downloaded Web Sites\estudianteplus.com\maps\embed\v1\place-1.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/embed/v1/place?key=AIzaSyAEIpgj38KyLFELm2bK9Y7krBkz1K-cMq8&q=place_id:ChIJf57m0LqtQw0R9f3DB7AC-hA
+File Name: c:\Downloaded Web Sites\estudianteplus.com\maps\embed\v1\place-2.html
+Content Type: text/html
+
+Uri: http://apycom.com/webdev/best-free-bootstrap-templates-2016-84.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\webdev\best-free-bootstrap-templates-2016-84.html
+Content Type: text/html
+
+Uri: http://web-buttons.com/samples.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\samples.html
+Content Type: text/html
+
+Uri: http://visuallightbox.com/content/30-best-mindblowing-free-website-design-templates-list-try-now-2679.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\content\30-best-mindblowing-free-website-design-templates-list-try-now-2679.html
+Content Type: text/html
+
+Uri: https://mobiriseextensions.com/
+File Name: c:\Downloaded Web Sites\estudianteplus.com\index-1.htm
+Content Type: text/html
+
+Uri: https://mobirisethemes.com/mobiriseamp/
+File Name: c:\Downloaded Web Sites\estudianteplus.com\mobiriseamp\index.htm
+Content Type: text/html
+
+Uri: http://cssslider.com/webdesign/33-brand-new-free-html-bootstrap-templates-2016-83.html
+File Name: c:\Downloaded Web Sites\estudianteplus.com\webdesign\33-brand-new-free-html-bootstrap-templates-2016-83.html
+Content Type: text/html
+
