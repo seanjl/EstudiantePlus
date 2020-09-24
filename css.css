@@ -85,14 +85,60 @@
     background-color: white !important;
 }
 
+.bg-blue {
+    background-color: #33add6 !important;
+}
+
 .title-text {
     color: #ffffff;
+}
+
+.text-yellow {
+    color: #ffcc00 !important;
+}
+
+.text-white {
+    color: #ffffff !important;
+}
+
+.text-bluecard {
+    color: #ffffff !important;
+    font-size: 1.5rem;
+    font-style: italic;
+    text-align: center;
+    padding: 0.3rem;
+}
+
+.text-bluecard2 {
+    color: #ffffff !important;
+    font-size: 1.5rem;
+    font-style: normal;
+    text-align: center;
+    padding: 0.3rem;
+    margin: auto;
+}
+
+.text-merch1 {
+    color: #ffffff !important;
+    font-size: 1.5rem;
+    font-style: normal;
+    text-align: center;
+    padding: 0.3rem;
+    font-weight: 600;
+}
+
+.text-merch2 {
+    color: #ffffff !important;
+    font-size: 1.5rem;
+    font-style: normal;
+    text-align: center;
+    padding: 0.3rem;
 }
 
 .alert-card {
     margin: auto;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-    background-color: #33add6;
+    background-color: #258aac;
     padding: 1em;
     width: 100%;
 }
