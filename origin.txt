@@ -3,7 +3,7 @@ File Name: c:\Downloaded Web Sites\estudianteplus.com\index.htm
 Content Type: text/html
 
 Uri: http://estudianteplus.com/assets/images/logo-1-133x165.jpg
-File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\logo-1-133x165.jpg
+File Name: c:\Downloaded Web Sites\estudianteplus.com\assets\images\logo-1-133x165.png
 Content Type: image/jpeg
 
 Uri: http://estudianteplus.com/assets/web/assets/mobirise-icons/mobirise-icons.css
