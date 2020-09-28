@@ -4457,6 +4457,10 @@ section.lazy-placeholder:after {
     color: #c1c1c1 !important;
 }
 
+.cid-cursosOnline {
+    background-image: url("../../images/mbr-CO-1920x1280.jpg");
+}
+
 .cid-rPRPgx6bCr {
     background-image: url("../../images/mbr-1-1920x1280.jpg");
 }
