@@ -164,3 +164,13 @@
 .footer-img {
     max-width: 100%;
 }
+
+.navTextLeft {
+    display: inline-block !important;
+    font-size: 0.75em;
+    vertical-align: top;
+}
+
+.navTextRight {
+    display: inline-block !important;
+}
