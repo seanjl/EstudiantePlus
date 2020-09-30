@@ -1,4 +1,4 @@
-/* Site modified by SeanLeitch (maintainance) 2020-09-29 10:59 */
+/* Site modified by SeanLeitch (maintainance) 2020-09-30 11:21 */
 
 @font-face {
     font-family: 'Rubik';
@@ -179,4 +179,12 @@
 
 .img-act-aca {
     max-width: 33%;
+}
+
+.nav-img-ico {
+    width: 1.563rem !important;
+    height: 1.5969782608715rem !important;
+    margin-right: 0.4rem;
+    margin-top: 0;
+    padding: 0;
 }
