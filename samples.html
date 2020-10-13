@@ -350,6 +350,16 @@
         <br>
         <a href="http://visualslideshow.com/" target="_blank">best website maker</a> | <a href="https://mobirisethemes.com/mobirise3.html" target="_blank">Free Bootstrap Template</a> | <a href="http://free-web-buttons.com/" target="_blank">bootstrap button styles</a>        | <a href="http://cssslider.com/bootstrap-carousel-8.html" target="_blank">bootstrap image slider</a> | <a href="http://cssslider.com/html-slider-4.html" target="_blank">html slider</a>
     </div>
+    <script>
+        var uniqueNum = new Date().getTime();
+        var cssURL = 'style.css?ver=' + uniqueNum;
+        var cssElement = document.createElement('link')
+        cssElement.setAttribute('rel', 'stylesheet')
+        cssElement.setAttribute('type', 'text/css')
+        cssElement.setAttribute('href', cssURL);
+        document.getElementsByTagName("html")[0].appendChild(cssElement);
+    </script>
+
 </body>
 
 </html>

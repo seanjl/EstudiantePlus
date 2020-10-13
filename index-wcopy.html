@@ -201,6 +201,16 @@
         <li><a href="page5.html">Ex&aacute;menes Cambridge</a></li>
         <li><a href="page6.html">Clases particulares</a></li>
     </ul>
+    <script>
+        var uniqueNum = new Date().getTime();
+        var cssURL = 'style.css?ver=' + uniqueNum;
+        var cssElement = document.createElement('link')
+        cssElement.setAttribute('rel', 'stylesheet')
+        cssElement.setAttribute('type', 'text/css')
+        cssElement.setAttribute('href', cssURL);
+        document.getElementsByTagName("html")[0].appendChild(cssElement);
+    </script>
+
 </body>
 
 </html>

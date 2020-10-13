@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <!-- Site modified by SeanLeitch (maintainance) 2020-09-30 12:14 -->
+    <!-- Site modified by SeanLeitch (maintainance) 2020-10-02 09:49 -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="generator" content="Mobirise v4.11.6, mobirise.com">
@@ -335,6 +335,16 @@
     <script src="assets/smoothscroll/smooth-scroll.js "></script>
     <script src="assets/theme/js/script.js "></script>
 
+
+    <script>
+        var uniqueNum = new Date().getTime();
+        var cssURL = 'style.css?ver=' + uniqueNum;
+        var cssElement = document.createElement('link')
+        cssElement.setAttribute('rel', 'stylesheet')
+        cssElement.setAttribute('type', 'text/css')
+        cssElement.setAttribute('href', cssURL);
+        document.getElementsByTagName("html")[0].appendChild(cssElement);
+    </script>
 
 </body>
 
