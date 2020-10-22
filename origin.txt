@@ -50,28 +50,28 @@ Uri: http://estudianteplus.com/index.html
 File Name: c:/Downloaded Web Sites/estudianteplus.com/index.html
 Content Type: text/html
 
-Uri: http://estudianteplus.com/page1.html
-File Name: c:/Downloaded Web Sites/estudianteplus.com/page1.html
+Uri: http://estudianteplus.com/academias.html
+File Name: c:/Downloaded Web Sites/estudianteplus.com/academias.html
 Content Type: text/html
 
-Uri: http://estudianteplus.com/page2.html
-File Name: c:/Downloaded Web Sites/estudianteplus.com/page2.html
+Uri: http://estudianteplus.com/extraescolares.html
+File Name: c:/Downloaded Web Sites/estudianteplus.com/extraescolares.html
 Content Type: text/html
 
-Uri: http://estudianteplus.com/page3.html
-File Name: c:/Downloaded Web Sites/estudianteplus.com/page3.html
+Uri: http://estudianteplus.com/actividades.html
+File Name: c:/Downloaded Web Sites/estudianteplus.com/actividades.html
 Content Type: text/html
 
-Uri: http://estudianteplus.com/page4.html
-File Name: c:/Downloaded Web Sites/estudianteplus.com/page4.html
+Uri: http://estudianteplus.com/formacionparaempresas.html
+File Name: c:/Downloaded Web Sites/estudianteplus.com/formacionparaempresas.html
 Content Type: text/html
 
-Uri: http://estudianteplus.com/page5.html
-File Name: c:/Downloaded Web Sites/estudianteplus.com/page5.html
+Uri: http://estudianteplus.com/examenescambridge.html
+File Name: c:/Downloaded Web Sites/estudianteplus.com/examenescambridge.html
 Content Type: text/html
 
-Uri: http://estudianteplus.com/page6.html
-File Name: c:/Downloaded Web Sites/estudianteplus.com/page6.html
+Uri: http://estudianteplus.com/clasesparticulares.html
+File Name: c:/Downloaded Web Sites/estudianteplus.com/clasesparticulares.html
 Content Type: text/html
 
 Uri: http://estudianteplus.com/assets/images/banner1-1-700x150.jpeg
